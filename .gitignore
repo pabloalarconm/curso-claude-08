@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+
+
+# Dependencies
+node_modules/
+
+# Build output and caches
+dist/
+.angular/
+
+# Local SQLite database (recreated by `npm run seed`)
+packages/api/resttek.db
+
+# OS files
+.DS_Store
